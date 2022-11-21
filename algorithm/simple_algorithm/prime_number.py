@@ -2,8 +2,11 @@ import time
 
 
 class Prime():
+    """
+    质数是指在大于1的自然数中，除了1和它本身以外不再有其他因数的自然数。
+    """
 
-    def __init__(self, start_num=1, end_num=2):  # type:(int, int)->None
+    def __init__(self, start_num=2, end_num=3):  # type:(int, int)->None
         self.__start_num = start_num
         self.__end_num = end_num
         self.prime_list = []
@@ -57,6 +60,19 @@ class Prime():
 
         self.composite_list = composite_list
         return composite_list
+
+    def Eratosthenes(self, num):
+        """
+        埃拉托斯特尼筛法
+        把不大于 sqrt(n) 的所有素数的倍数剔除，剩下的就是n以内的所有素数
+        :param num:
+        :return:
+        """
+        num_list = list(range(2, num + 1))
+        for i in range(self.__start_num, self.__end_num):
+            pass
+
+        return
 
 
 if __name__ == '__main__':
