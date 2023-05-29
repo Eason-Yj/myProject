@@ -1,31 +1,17 @@
-# Huggingface 使用
+# Python 镜像源
 
-## 1 环境安装配置
+* 清华：
+https://pypi.tuna.tsinghua.edu.cn/simple
+* 阿里云：
+http://mirrors.aliyun.com/pypi/simple/
+* 中国科技大学：
+https://pypi.mirrors.ustc.edu.cn/simple/
+* 华中理工大学：
+http://pypi.hustunique.com/
+* 山东理工大学：
+http://pypi.sdutlinux.org/ 
+* 豆瓣：
+http://pypi.douban.com/simple/
 
-```bash
-conda install -c huggingface -c conda-forge datasets transformers
-conda install protobuf=3.20
-pip install huggingface_hub
-# You already have it if you installed transformers or datasets
-
-huggingface-cli login
-# Log in using a token from huggingface.co/settings/tokens
-# Create a model or dataset repo from the CLI if needed
-huggingface-cli repo create repo_name --type {model, dataset, space}
-
-# Clone your model or dataset locally
-# Make sure you have git-lfs installed (https://git-lfs.github.com)
-git lfs install
-git clone https://huggingface.co/username/repo_name
-
-# Then add, commit and push any file you want, including larges files
-# save files via `.save_pretrained()` or move them here
-git add .
-git commit -m "commit from $USER"
-git push
-
-# In most cases, if you're using one of the compatible libraries, your repo will then be accessible from code, through its identifier: username/repo_name
-# For example for a transformers model, anyone can load it with:
-tokenizer = AutoTokenizer.from_pretrained("username/repo_name")
-model = AutoModel.from_pretrained("username/repo_name")
-```
+设置pip源
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
