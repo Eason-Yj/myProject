@@ -1,19 +1,12 @@
 # PageRank
 
-## 1 有向图
+## 1 概念
 
-### 1.1 相关概念
-![Alt pic](images/有向图.jpeg)
-- 出度：某个定点指出的边的个数
-- 入度：某个定点被指向的边的个数
-- 度：出度 + 入度
-- 有向边：一个定点指向另一个定点的边，指出位置为头，指入位置为尾
-- 有向图：一条至少含有一条边，且起点和终点都相等的有向路径
+PageRank算法的基本想法是在有向图上定义一个随机游走模型，即一阶马尔可夫链，描述随机游走者沿着有向图随机访问各个结点的行为。在一定条件下，极限情况访问每个结点的概率收敛到平稳分布，这时各个结点的平稳概率值就是其PageRank值，表示结点的重要度。PageRank
+是递归定义的，PageRank 的计算可以通过迭代算法进行。
 
-### 1.2 邻接矩阵
+## 2 相关Python库
 
-定义：图G=(V,E),其中顶点集V=v1,v2,…,vn，边集 E=e1,e2,…,eε。用a<sub>ij</sub>表示顶点v<sub>i</sub>与顶点v<sub>j</sub>之间的边数，可能取值为0,1,2,…，称所得矩阵A(G)为图G的邻接矩阵。
-![Alt pic](images/邻接矩阵.png)
-有向图中
-- 列表示：V<sub>i</sub>来自于其他顶点的入度边数  
-- 行表示：V<sub>i</sub>来指向其他顶点的出度边数
+- scikit-network: https://scikit-network.readthedocs.io/en/latest/tutorials/ranking/pagerank.html?highlight=pagerank#PageRank
+- networkx: https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.link_analysis.pagerank_alg.pagerank.html#pagerank
+- igraph: https://python.igraph.org/en/stable/api/igraph.Graph.html#pagerank
