@@ -37,4 +37,34 @@ git rebase --continue
 git push
 ```
 
+### 2 fatal: unable to access 'https://github.com//xxx/xxx.git/': Failed to connect to github.com port 443: Timed out
+```
+可能是因为网络连接失败
+解决1：科学上网
 
+解决2：设置域名解析
+1 查询github可访问ip
+http://ping.chinaz.com/github.com
+http://ping.chinaz.com/github.global.ssl.fastly.net
+http://ping.chinaz.com/assets-cdn.github.com
+
+2 修改hosts文件
+文件位置：C:\Windows\System32\drivers\etc\hosts
+host文件中增加：
+20.205.243.166 github.com
+
+157.240.6.35 github.global.ssl.fastly.net
+157.240.18.18 github.global.ssl.fastly.net
+199.59.148.229 github.global.ssl.fastly.net
+199.96.58.157 github.global.ssl.fastly.net
+
+185.199.111.153 assets-cdn.github.com
+185.199.110.153 assets-cdn.github.com
+185.199.109.153 assets-cdn.github.com
+185.199.108.153 assets-cdn.github.com
+
+3 刷新DNS
+ipconfig /flushdns
+
+4 若修改后开始可以使用后来又出现该问题了，需要重新查看IP是否能访问
+```
