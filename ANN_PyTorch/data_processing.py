@@ -5,7 +5,7 @@ conda install opencv
 """
 from torch.utils.data import dataset
 import os
-import cv2
+import PIL.Image as images
 
 
 class myDataset(dataset.Dataset):
@@ -19,7 +19,7 @@ class myDataset(dataset.Dataset):
         image_name = self.images_list[idx]
         image_label = self.label_list[idx]
         image_path = os.path.join(self.images_dir, image_name)
-        images_data = cv2.imread(image_path)  # 路径中不能包含中文和大写字母
+        images_data = images.open(image_path)  # 路径中不能包含中文和大写字母
 
         return images_data, image_label
 
@@ -27,4 +27,6 @@ class myDataset(dataset.Dataset):
 images_path = r"dataset\hymenoptera_exp_data\train\ants_image"
 label_path = r"dataset\hymenoptera_exp_data\train\ants_label"
 data = myDataset(images_data=images_path, label_data=label_path)
+
 print(data[0])
+print(data[0][0].size)
