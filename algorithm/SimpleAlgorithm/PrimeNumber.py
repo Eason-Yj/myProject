@@ -1,3 +1,7 @@
+"""
+质数
+"""
+import math
 import time
 
 
@@ -26,13 +30,20 @@ class Prime():
         for i in range(min_factor, max_factor + 1):
             if num % i == 0:
                 factor_list.append(i)
+        self.factor_list = factor_list
+
         if len(factor_list) != 0:
-            self.factor_list = factor_list
             return False
         else:
             return True
 
     def get_prime_list(self):
+        """
+        获取一个数值范围内的所有
+        Returns
+        -------
+
+        """
         prime_list = []
         if self.composite_list:
             prime_list = list(range(self.__start_num, self.__end_num + 1))
@@ -47,6 +58,12 @@ class Prime():
         return prime_list
 
     def get_composite_list(self):
+        """
+        获取一个数值范围内的所有合数
+        Returns
+        -------
+
+        """
         composite_list = []
         if self.prime_list:
             composite_list = list(range(self.__start_num, self.__end_num + 1))
@@ -61,18 +78,26 @@ class Prime():
         self.composite_list = composite_list
         return composite_list
 
-    def Eratosthenes(self, num):
+    def Eratosthenes(self, end_num):
         """
         埃拉托斯特尼筛法
         把不大于 sqrt(n) 的所有素数的倍数剔除，剩下的就是n以内的所有素数
         :param num:
         :return:
         """
-        num_list = list(range(2, num + 1))
-        for i in range(self.__start_num, self.__end_num):
-            pass
+        all_lst = list(range(2, end_num + 1))
 
-        return
+        for i in range(2, int(math.sqrt(end_num)) + 1):
+            if self.isPrime(i):
+                multiple = i
+                while True:
+                    multiple += i
+                    if multiple <= end_num:
+                        if multiple in all_lst:
+                            all_lst.remove(multiple)
+                    else:
+                        break
+        return all_lst
 
 
 if __name__ == '__main__':
@@ -80,4 +105,9 @@ if __name__ == '__main__':
     prime = Prime(end_num=10000)
     prime.get_prime_list()
     print(prime.prime_list)
-    print(time.time() - time1)
+    time2 = time.time()
+    print(prime.Eratosthenes(10000))
+    time3 = time.time()
+
+    print(time2 - time1)
+    print(time3 - time2)
