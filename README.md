@@ -11,7 +11,7 @@
 
 ## DataProcessing(数据处理)
 
-- [numpy](DataProcessing/learn_numpy/learn_numpy.py)
+- [numpy](Data_Processing/learn_numpy/learn_numpy.py)
 
 ## FM(大模型, Foundation Model)
 
@@ -19,20 +19,20 @@
 
 ## IndustryKnowledge(工业生产相关)
 
-- [金融风控](IndustryKnowledge/FinancialRiskControl/indicators.md)
+- [金融风控](Industry_Knowledge/FinancialRiskControl/indicators.md)
 
 ## ML(机器学习, machine learning)
 
-- [Statistical_Analysis(统计分析)](ML_Statistical_Analysis/README.md)
+- [Statistical_Analysis(统计分析)](Machine_Learning/ML_Statistical_Analysis/README.md)
 
 ## tool
 
-- [git](tool_git/README.md)
-- [linux](tool_linux/README.md)
-- [markdown](tool_markdown/README.md)
-- [script](tool_script/README.md)
+- [git](Tool/tool_git/README.md)
+- [linux](Tool/tool_linux/README.md)
+- [markdown](Tool/tool_markdown/README.md)
+- [script](Tool/tool_script/README.md)
 
 ## Python库
 
-- [Python标准库](python_standard_library/README.md)
-- [Python三方库](python_ThirdParty_library/README.md)
+- [Python标准库](Python/python_standard_library/README.md)
+- [Python三方库](Python/python_ThirdParty_library/README.md)
