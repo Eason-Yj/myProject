@@ -24,7 +24,7 @@ def insertSort2(sequence: list):
     for i in range(1, lens):
         val = sequence[i]
         j = i - 1
-        while j >= 0 and val < sequence[j]:
+        while j >= 0 and val < sequence[j]:  # 将比val小的值都往右移动一位
             sequence[j + 1] = sequence[j]
             j -= 1
         sequence[j + 1] = val

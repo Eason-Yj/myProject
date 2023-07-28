@@ -44,21 +44,9 @@ def shellSort(input_list):
     return l
 
 
-
-
-
 def shellSort(sequence):
-    gap = len(sequence) // 2
-    while gap > 0:
-        for i in range(gap, len(sequence)):
-            current_val = sequence[i]
-            j = i
-            while j >= gap and current_val < sequence[j - gap]:
-                sequence[j] = sequence[j - gap]
-                j -= gap
-            sequence[j] = current_val
-        gap = gap // 2
     return sequence
+
 
 a = list(np.random.randint(1, 100, size=20))
 b = list(np.random.randint(1, 100, size=30))
