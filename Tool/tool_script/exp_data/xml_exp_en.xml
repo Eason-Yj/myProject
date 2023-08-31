@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The United Nations Parallel Corpus v1.0 - S/RES/918(1994)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>United Nations DGACM</publisher>
+                <pubPlace>New York</pubPlace>
+                <date>19940517</date>
+                <idno type="symbol">S/RES/918(1994)</idno>
+                <idno type="jobno">N9421836</idno>
+                <availability>
+                    <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0,
+                        shall be respected in regard to the Corpus v1.0 (no other restrictions apply):
+                    </p>
+
+                    <p>The United Nations Parallel Corpus is made available without warranty of any kind,
+                        explicit or implied. The United Nations specifically makes no warranties or
+                        representations as to the accuracy or completeness of the information contained in
+                        the United Nations corpus.
+                    </p>
+
+                    <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+                        injury or damage incurred or suffered that is claimed to have resulted from the use
+                        of the United Nations Corpus. The use of the United Nations Corpus is at the user's
+                        sole risk. The user specifically acknowledges and agrees that the United Nations is
+                        not liable for the conduct of any user. If the user is dissatisfied with any of the
+                        material provided in the United Nations Corpus, the users's sole and exclusive remedy
+                        is to discontinue using the United Nations Corpus.
+                    </p>
+
+                    <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+                        source of the information. For references, please use this reference:
+                        Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+                        Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia,
+                        May 2016.
+                    </p>
+
+                    <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+                        express or implied, of the privileges and immunities of the United Nations, which
+                        are specifically reserved.
+                    </p>
+                </availability>
+                <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>AIRPORTS</term>
+                    <term>DEMILITARIZED ZONES</term>
+                    <term>KIGALI (RWANDA)</term>
+                    <term>CEASEFIRES</term>
+                    <term>POLITICAL VIOLENCE</term>
+                    <term>PEACEKEEPING OPERATIONS</term>
+                    <term>HUMANITARIAN ASSISTANCE</term>
+                    <term>EMERGENCY RELIEF</term>
+                    <term>ARMS EMBARGO</term>
+                    <term>RWANDA</term>
+                    <term>RWANDA SITUATION</term>
+                    <term>MILITARY PERSONNEL</term>
+                    <term>STAFF SECURITY</term>
+                    <term>CRIMINAL INVESTIGATION</term>
+                    <term>HUMAN RIGHTS IN ARMED CONFLICTS</term>
+                    <term>ESTABLISHMENT</term>
+                    <term>RWANDAN REFUGEES</term>
+                    <term>REFUGEE ASSISTANCE</term>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p id="1">
+                <s id="1:1" lang="en">UNITED</s>
+            </p>
+            <p id="2">
+                <s id="2:1" lang="en">NATIONS</s>
+            </p>
+            <p id="3">
+                <s id="3:1" lang="en">Distr.</s>
+            </p>
+            <p id="4">
+                <s id="4:1" lang="en">GENERAL</s>
+            </p>
+            <p id="5">
+                <s id="5:1" lang="en">S/RES/918 (1994)</s>
+            </p>
+            <p id="6">
+                <s id="6:1" lang="en">17 May 1994</s>
+            </p>
+            <p id="7">
+                <s id="7:1" lang="en">RESOLUTION 918 (1994)</s>
+            </p>
+            <p id="8">
+                <s id="8:1" lang="en">Adopted by the Security Council at its 3377th meeting,</s>
+            </p>
+            <p id="9">
+                <s id="9:1" lang="en">on 17 May 1994</s>
+            </p>
+            <p id="10">
+                <s id="10:1" lang="en">The Security Council,</s>
+            </p>
+            <p id="11">
+                <s id="11:1" lang="en">Reaffirming all its previous resolutions on the situation in Rwanda, in
+                    particular its resolution 872 (1993) of 5 October 1993 by which it established the United Nations
+                    Assistance Mission for Rwanda (UNAMIR), its resolution 909 (1994) of 5 April 1994 which extended the
+                    mandate of UNAMIR until 29 July 1994, and its resolution 912 (1994) of 21 April 1994 by which it
+                    adjusted the mandate of UNAMIR,
+                </s>
+            </p>
+            <p id="12">
+                <s id="12:1" lang="en">Recalling the statements made by the President of the Council on 7 April 1994
+                    (S/PRST/1994/16) and 30 April 1994 (S/PRST/1994/21),
+                </s>
+            </p>
+            <p id="13">
+                <s id="13:1" lang="en">Having considered the report of the Secretary-General dated 13 May 1994
+                    (S/1994/565),
+                </s>
+            </p>
+            <p id="14">
+                <s id="14:1" lang="en">Reaffirming its resolution 868 (1993) of 29 September 1993 on the security of
+                    United Nations operations,
+                </s>
+            </p>
+            <p id="15">
+                <s id="15:1" lang="en">Strongly condemning the ongoing violence in Rwanda and particularly condemning
+                    the very numerous killings of civilians which have taken place in Rwanda and the impunity with which
+                    armed individuals have been able to operate and continue operating therein,
+                </s>
+            </p>
+            <p id="16">
+                <s id="16:1" lang="en">Stressing the importance of the Arusha Peace Agreement to the peaceful resolution
+                    of the conflict in Rwanda and the necessity for all parties to recommit themselves to its full
+                    implementation,
+                </s>
+            </p>
+            <p id="17">
+                <s id="17:1" lang="en">Commending the efforts of the Organization of African Unity (OAU) and its organs,
+                    as well as the efforts of the Tanzanian Facilitator, in providing diplomatic, political, and
+                    humanitarian support for the implementation of the relevant resolutions of the Council,
+                </s>
+            </p>
+            <p id="18">
+                <s id="18:1" lang="en">Deeply concerned that the situation in Rwanda, which has resulted in the death of
+                    many thousands of innocent civilians, including women and children, the
+                </s>
+            </p>
+            <p id="19">
+                <s id="19:1" lang="en">94-21836 (E) /...</s>
+            </p>
+            <p id="20">
+                <s id="20:1" lang="en">Page</s>
+            </p>
+            <p id="21">
+                <s id="21:1" lang="en">internal displacement of a significant percentage of the Rwandan population, and
+                    the massive exodus of refugees to neighbouring countries, constitutes a humanitarian crisis of
+                    enormous proportions,
+                </s>
+            </p>
+            <p id="22">
+                <s id="22:1" lang="en">Expressing once again its alarm at continuing reports of systematic, widespread
+                    and flagrant violations of international humanitarian law in Rwanda, as well as other violations of
+                    the rights to life and property,
+                </s>
+            </p>
+            <p id="23">
+                <s id="23:1" lang="en">Recalling in this context that the killing of members of an ethnic group with the
+                    intention of destroying such a group, in whole or in part, constitutes a crime punishable under
+                    international law,
+                </s>
+            </p>
+            <p id="24">
+                <s id="24:1" lang="en">Strongly urging all parties to cease forthwith any incitement, especially through
+                    the mass media, to violence or ethnic hatred,
+                </s>
+            </p>
+            <p id="25">
+                <s id="25:1" lang="en">Recalling also its request to the Secretary-General to collect information on the
+                    responsibility for the tragic incident that resulted in the death of the Presidents of Rwanda and
+                    Burundi,
+                </s>
+            </p>
+            <p id="26">
+                <s id="26:1" lang="en">Recalling further that it had requested the Secretary-General to make proposals
+                    for the investigation of reports of serious violations of international humanitarian law during the
+                    conflict,
+                </s>
+            </p>
+            <p id="27">
+                <s id="27:1" lang="en">Underlining the urgent need for coordinated international action to alleviate the
+                    suffering of the Rwandan people and to help restore peace in Rwanda, and in this connection
+                    welcoming cooperation between the United Nations and the OAU as well as with countries of the
+                    region, especially the facilitator of the Arusha peace process,
+                </s>
+            </p>
+            <p id="28">
+                <s id="28:1" lang="en">Desiring in this context to expand the mandate of UNAMIR for humanitarian
+                    purposes, and stressing the importance it attaches to the support and cooperation of the parties for
+                    the successful implementation of all aspects of that mandate,
+                </s>
+            </p>
+            <p id="29">
+                <s id="29:1" lang="en">Reaffirming its commitment to the unity and territorial integrity of Rwanda,</s>
+            </p>
+            <p id="30">
+                <s id="30:1" lang="en">Recognizing that the people of Rwanda bear ultimate responsibility for national
+                    reconciliation and reconstruction of their country,
+                </s>
+            </p>
+            <p id="31">
+                <s id="31:1" lang="en">Deeply disturbed by the magnitude of the human suffering caused by the conflict
+                    and concerned that the continuation of the situation in Rwanda constitutes a threat to peace and
+                    security in the region,
+                </s>
+            </p>
+            <p id="32">
+                <s id="32:1" lang="en">A</s>
+            </p>
+            <p id="33">
+                <s id="33:1" lang="en">1. Demands that all parties to the conflict immediately cease hostilities, agree
+                    to a cease-fire, and bring an end to the mindless violence and carnage engulfing Rwanda;
+                </s>
+            </p>
+            <p id="34">
+                <s id="34:1" lang="en">2. Welcomes the report of the Secretary-General dated 13 May 1994 (S/1994/565);
+                </s>
+            </p>
+            <p id="35">
+                <s id="35:1" lang="en">3. Decides to expand UNAMIR&apos;s mandate under resolution 912 (1994) to include
+                    the following additional responsibilities within the limits of the resources available to it:
+                </s>
+            </p>
+            <p id="36">
+                <s id="36:1" lang="en">(a) To contribute to the security and protection of displaced persons, refugees
+                    and civilians at risk in Rwanda, including through the establishment and maintenance, where
+                    feasible, of secure humanitarian areas;
+                </s>
+            </p>
+            <p id="37">
+                <s id="37:1" lang="en">(b) To provide security and support for the distribution of relief supplies and
+                    humanitarian relief operations;
+                </s>
+            </p>
+            <p id="38">
+                <s id="38:1" lang="en">4. Recognizes that UNAMIR may be required to take action in self-defence against
+                    persons or groups who threaten protected sites and populations, United Nations and other
+                    humanitarian personnel or the means of delivery and distribution of humanitarian relief;
+                </s>
+            </p>
+            <p id="39">
+                <s id="39:1" lang="en">5. Authorizes in this context an expansion of the UNAMIR force level up to 5,500
+                    troops;
+                </s>
+            </p>
+            <p id="40">
+                <s id="40:1" lang="en">6. Requests the Secretary-General, as recommended in his report, and as a first
+                    phase, immediately to redeploy to Rwanda the UNAMIR military observers currently in Nairobi and to
+                    bring up to full strength the elements of the mechanized infantry battalion currently in Rwanda;
+                </s>
+            </p>
+            <p id="41">
+                <s id="41:1" lang="en">7. Further requests the Secretary-General to report as soon as possible on the
+                    next phase of UNAMIR&apos;s deployment including, inter alia, on the cooperation of the parties,
+                    progress towards a cease-fire, availability of resources and the proposed duration of the mandate
+                    for further review and action, as required, by the Council;
+                </s>
+            </p>
+            <p id="42">
+                <s id="42:1" lang="en">8. Encourages the Secretary-General to accelerate his efforts, in conjunction
+                    with the Secretary-General of the OAU, to obtain from Member States the necessary personnel to
+                    enable deployment of the expanded UNAMIR to proceed urgently;
+                </s>
+            </p>
+            <p id="43">
+                <s id="43:1" lang="en">9. Invites Member States to respond promptly to the Secretary-General&apos;s
+                    request for the resources required, including logistical support capability for rapid deployment of
+                    the UNAMIR expanded force level and its support in the field;
+                </s>
+            </p>
+            <p id="44">
+                <s id="44:1" lang="en">10. Strongly urges all parties in Rwanda to cooperate fully with UNAMIR in the
+                    implementation of its mandate and in particular in ensuring its freedom of movement and the
+                    unimpeded delivery of humanitarian assistance, and further calls upon them to treat Kigali airport
+                    as a neutral zone under the control of UNAMIR;
+                </s>
+            </p>
+            <p id="45">
+                <s id="45:1" lang="en">11. Demands that all parties in Rwanda strictly respect the persons and premises
+                    of the United Nations and other organizations serving in Rwanda, and refrain from any acts of
+                    intimidation or violence against personnel engaged in humanitarian and peace-keeping work;
+                </s>
+            </p>
+            <p id="46">
+                <s id="46:1" lang="en">12. Commends the efforts of States, United Nations agencies and non-governmental
+                    organizations which have provided humanitarian and other assistance, encourages them to continue and
+                    increase such assistance, and urges others to provide such assistance;
+                </s>
+            </p>
+            <p id="47">
+                <s id="47:1" lang="en">B</s>
+            </p>
+            <p id="48">
+                <s id="48:1" lang="en">Determining that the situation in Rwanda constitutes a threat to peace and
+                    security in the region,
+                </s>
+            </p>
+            <p id="49">
+                <s id="49:1" lang="en">Acting under Chapter VII of the Charter of the United Nations,</s>
+            </p>
+            <p id="50">
+                <s id="50:1" lang="en">13. Decides that all States shall prevent the sale or supply to Rwanda by their
+                    nationals or from their territories or using their flag vessels or aircraft of arms and related
+                    matériel of all types, including weapons and ammunition, military vehicles and equipment,
+                    paramilitary police equipment and spare parts;
+                </s>
+            </p>
+            <p id="51">
+                <s id="51:1" lang="en">14. Decides also to establish, in accordance with rule 28 of the provisional
+                    rules of procedure of the Security Council, a Committee of the Security Council consisting of all
+                    the members of the Council, to undertake the following tasks and to report on its work to the
+                    Council with its observations and recommendations:
+                </s>
+            </p>
+            <p id="52">
+                <s id="52:1" lang="en">(a) To seek from all States information regarding the action taken by them
+                    concerning the effective implementation of the embargo imposed by paragraph 13 above;
+                </s>
+            </p>
+            <p id="53">
+                <s id="53:1" lang="en">(b) To consider any information brought to its attention by States concerning
+                    violations of the embargo, and in that context to make recommendations to the Council on ways of
+                    increasing the effectiveness of the embargo;
+                </s>
+            </p>
+            <p id="54">
+                <s id="54:1" lang="en">(c) To recommend appropriate measures in response to violations of the embargo
+                    imposed by paragraph 13 above and provide information on a regular basis to the Secretary-General
+                    for general distribution to Member States;
+                </s>
+            </p>
+            <p id="55">
+                <s id="55:1" lang="en">15. Calls upon all States, including States not Members of the United Nations,
+                    and international organizations to act strictly in accordance with the provisions of the present
+                    resolution, notwithstanding the existence of any rights or obligations conferred or imposed by any
+                    international agreement or any contract entered into or any licence or permit granted prior to the
+                    date of the adoption of this resolution;
+                </s>
+            </p>
+            <p id="56">
+                <s id="56:1" lang="en">16. Decides that the provisions set forth in paragraphs 13 and 15 above do not
+                    apply to activities related to UNAMIR and UNOMUR;
+                </s>
+            </p>
+            <p id="57">
+                <s id="57:1" lang="en">17. Requests the Secretary-General to provide all necessary assistance to the
+                    Committee and to make the necessary arrangements in the Secretariat for this purpose;
+                </s>
+            </p>
+            <p id="58">
+                <s id="58:1" lang="en">C</s>
+            </p>
+            <p id="59">
+                <s id="59:1" lang="en">18. Requests the Secretary-General to present a report as soon as possible on the
+                    investigation of serious violations of international humanitarian law committed in Rwanda during the
+                    conflict;
+                </s>
+            </p>
+            <p id="60">
+                <s id="60:1" lang="en">19. Invites the Secretary-General and his Special Representative, in coordination
+                    with the OAU and countries in the region, to continue their efforts to achieve a political
+                    settlement in Rwanda within the framework of the Arusha Peace Agreement;
+                </s>
+            </p>
+            <p id="61">
+                <s id="61:1" lang="en">20. Decides to keep the situation in Rwanda under constant review and requests
+                    the Secretary-General to report further, including on the humanitarian situation, within five weeks
+                    of the adoption of this resolution and again in good time before the expiration of the current
+                    mandate of UNAMIR;
+                </s>
+            </p>
+            <p id="62">
+                <s id="62:1" lang="en">21. Decides to remain actively seized of the matter.</s>
+            </p>
+        </body>
+    </text>
+</TEI.2>

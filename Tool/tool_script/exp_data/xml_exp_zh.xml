@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The United Nations Parallel Corpus v1.0 - S/RES/918(1994)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>United Nations DGACM</publisher>
+                <pubPlace>New York</pubPlace>
+                <date>19940517</date>
+                <idno type="symbol">S/RES/918(1994)</idno>
+                <idno type="jobno">N9421835</idno>
+                <availability>
+                    <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0,
+                        shall be respected in regard to the Corpus v1.0 (no other restrictions apply):
+                    </p>
+
+                    <p>The United Nations Parallel Corpus is made available without warranty of any kind,
+                        explicit or implied. The United Nations specifically makes no warranties or
+                        representations as to the accuracy or completeness of the information contained in
+                        the United Nations corpus.
+                    </p>
+
+                    <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+                        injury or damage incurred or suffered that is claimed to have resulted from the use
+                        of the United Nations Corpus. The use of the United Nations Corpus is at the user's
+                        sole risk. The user specifically acknowledges and agrees that the United Nations is
+                        not liable for the conduct of any user. If the user is dissatisfied with any of the
+                        material provided in the United Nations Corpus, the users's sole and exclusive remedy
+                        is to discontinue using the United Nations Corpus.
+                    </p>
+
+                    <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+                        source of the information. For references, please use this reference:
+                        Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+                        Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia,
+                        May 2016.
+                    </p>
+
+                    <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+                        express or implied, of the privileges and immunities of the United Nations, which
+                        are specifically reserved.
+                    </p>
+                </availability>
+                <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term>AIRPORTS</term>
+                    <term>DEMILITARIZED ZONES</term>
+                    <term>KIGALI (RWANDA)</term>
+                    <term>CEASEFIRES</term>
+                    <term>POLITICAL VIOLENCE</term>
+                    <term>PEACEKEEPING OPERATIONS</term>
+                    <term>HUMANITARIAN ASSISTANCE</term>
+                    <term>EMERGENCY RELIEF</term>
+                    <term>ARMS EMBARGO</term>
+                    <term>RWANDA</term>
+                    <term>RWANDA SITUATION</term>
+                    <term>MILITARY PERSONNEL</term>
+                    <term>STAFF SECURITY</term>
+                    <term>CRIMINAL INVESTIGATION</term>
+                    <term>HUMAN RIGHTS IN ARMED CONFLICTS</term>
+                    <term>ESTABLISHMENT</term>
+                    <term>RWANDAN REFUGEES</term>
+                    <term>REFUGEE ASSISTANCE</term>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="zh">Chinese</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p id="1">
+                <s id="1:1" lang="zh">第918(1994)号决议</s>
+            </p>
+            <p id="2">
+                <s id="2:1" lang="zh">1994年5月17日安全理事会第3377次会议通过</s>
+            </p>
+            <p id="3">
+                <s id="3:1" lang="zh">安全理事会，</s>
+            </p>
+            <p id="4">
+                <s id="4:1" lang="zh">
+                    重申其以往关于卢旺达局势的所有决议，特别是成立联合国卢旺达援助团(联卢援助团)的1993年10月5日第872(1993)号决议，延长联卢援助团任务期限至1994年7月29日的1994年4月5日第909(1994)号决议，以及调整联卢援助团的任务规定的1994年4月21日第912(1994)号决议，
+                </s>
+            </p>
+            <p id="5">
+                <s id="5:1" lang="zh">回顾安理会主席以安理会名义在1994年4月7日发表的声明(S/PRST/
+                    1994/16)和在1994年4月30日发表的声明(S/PRST/1994/21)，
+                </s>
+            </p>
+            <p id="6">
+                <s id="6:1" lang="zh">审议了1994年5月13日秘书长的报告(S/1994/565)，</s>
+            </p>
+            <p id="7">
+                <s id="7:1" lang="zh">重申其1993年9月29日关于联合国行动安全的第868(1993)号决议，</s>
+            </p>
+            <p id="8">
+                <s id="8:1" lang="zh">
+                    强烈谴责卢旺达境内目前发生的暴乱，特别是谴责在卢旺达境内发生大量残杀平民，以及武装个人在国内一直横行并继续横行而不受惩罚的情况，
+                </s>
+            </p>
+            <p id="9">
+                <s id="9:1" lang="zh">
+                    强调《阿鲁沙和平协定》对和平解决卢旺达境内冲突的重要性，以及所有各方必须再次承诺充分执行这项协定，
+                </s>
+            </p>
+            <p id="10">
+                <s id="10:1" lang="zh">
+                    赞扬非洲统一组织及其机关和坦桑尼亚调解人努力提供外交、政治和人道主义支助，以期执行安理会的有关决议，
+                </s>
+            </p>
+            <p id="11">
+                <s id="11:1" lang="zh">
+                    深为关切卢旺达局势已造成成千上万的无辜平民、包括妇女与儿童的死亡，卢旺达极大比例的人口在国内流离失所，以及难民大批涌向邻国，构成巨大的人道主义危机，
+                </s>
+            </p>
+            <p id="12">
+                <s id="12:1" lang="zh">
+                    对不断传来的卢旺达境内发生有计划、普遍、公然违反国际人道主义法行为和其他侵犯生命和财产权利的报告，再次表示震惊，
+                </s>
+            </p>
+            <p id="13">
+                <s id="13:1" lang="zh">
+                    在这方面回顾屠杀一个种族集团的成员以图将该集团整个或部分消灭，构成根据国际法应受惩罚的罪行，
+                </s>
+            </p>
+            <p id="14">
+                <s id="14:1" lang="zh">促请所有各方立即停止，特别是通过大众媒体，进行任何煽动暴乱或种族仇恨的行为，</s>
+            </p>
+            <p id="15">
+                <s id="15:1" lang="zh">
+                    又回顾安理会曾请秘书长收集有关造成卢旺达和布隆迪两位总统死难悲惨事件的罪责的资料；
+                </s>
+            </p>
+            <p id="16">
+                <s id="16:1" lang="zh">进一步回顾安理会曾请秘书长建议如何调查冲突期间严重违反国际人道主义法行为的报告，
+                </s>
+            </p>
+            <p id="17">
+                <s id="17:1" lang="zh">
+                    强调迫切需要采取协调的国际行动，以减轻卢旺达人民的苦难，并协助恢复卢旺达境内的和平，在这方面，欣见联合国与非统组织以及该区域各国、特别是阿鲁沙和平进程的调解人合作，
+                </s>
+            </p>
+            <p id="18">
+                <s id="18:1" lang="zh">
+                    希望在这方面扩大联卢援助团的人道主义任务，并强调重视各方对成功全面实施这一任务的支持与合作，
+                </s>
+            </p>
+            <p id="19">
+                <s id="19:1" lang="zh">重申承诺维护卢旺达的统一和领土完整，</s>
+            </p>
+            <p id="20">
+                <s id="20:1" lang="zh">认识到卢旺达人民负有民族和解与本国重建的根本责任，</s>
+            </p>
+            <p id="21">
+                <s id="21:1" lang="zh">
+                    深感不安的是冲突造成人民巨大的苦难，并忧虑卢旺达局势的延续对区域内的和平与安全构成威胁，
+                </s>
+            </p>
+            <p id="22">
+                <s id="22:1" lang="zh">A</s>
+            </p>
+            <p id="23">
+                <s id="23:1" lang="zh">1. 要求冲突各方立即停止敌对行为，同意停火，并终止席卷卢旺达的盲目暴乱和杀戮；</s>
+            </p>
+            <p id="24">
+                <s id="24:1" lang="zh">2. 欣见秘书长1994年5月13日的报告(S/1994/565)，</s>
+            </p>
+            <p id="25">
+                <s id="25:1" lang="zh">3.
+                    决定在现有资源范围内，扩大第912(1994)号决议规定的联卢援助团的任务，包括下列新增的职责：
+                </s>
+            </p>
+            <p id="26">
+                <s id="26:1" lang="zh">(a)
+                    促进卢旺达境内流离失所者、难民和面临危险的平民的安全和保障，包括在可行时设立和维持人道主义安全区；
+                </s>
+            </p>
+            <p id="27">
+                <s id="27:1" lang="zh">(b) 对救济品的分发工作和人道主义救济行动提供安全和支助；</s>
+            </p>
+            <p id="28">
+                <s id="28:1" lang="zh">4.
+                    认识到联卢援助团可能必须采取自卫行动，以对抗个人或团体对被保护地点和人民、联合国和其他人道主义工作人员或人道主义救济物质的运送和分发工具的威胁；
+                </s>
+            </p>
+            <p id="29">
+                <s id="29:1" lang="zh">5. 为此核准将联卢援助团部队人数增至5 500人；</s>
+            </p>
+            <p id="30">
+                <s id="30:1" lang="zh">6.
+                    请秘书长照其报告中的建议，第一阶段立即将目前在内罗毕的联卢援助团军事观察员重新部署到卢旺达，并将目前在卢旺达的机械化步兵营的人员装备达到全部建制；
+                </s>
+            </p>
+            <p id="31">
+                <s id="31:1" lang="zh">7.
+                    又请秘书长就联卢援助团下一阶段的部署情况尽快提出报告，其中除其他外报告各当事方的合作情况，达成停火的进展情况，现有的资源以及拟议的任务期限，供安理会进一步审议和视需要采取行动；
+                </s>
+            </p>
+            <p id="32">
+                <s id="32:1" lang="zh">8.
+                    鼓励秘书长加紧努力，与非洲统一组织秘书长合作，从会员国调用所需人员，以便能迅速开始部署增编的联卢援助团；
+                </s>
+            </p>
+            <p id="33">
+                <s id="33:1" lang="zh">9.
+                    请各会员国迅速响应秘书长关于供应所需资源的要求，包括后勤支助能力，以便迅速部署联卢援助团增编的部队人员及向援助团提供实地支援；
+                </s>
+            </p>
+            <p id="34">
+                <s id="34:1" lang="zh">10.
+                    强烈促请卢旺达境内各方与联卢援助团充分合作执行其任务，特别是保证其行动自由和确保能顺利无阻地运送人道主义援助物资，并进一步要求它们将基加利机场当做是联卢援助团控制下的中立区对待；
+                </s>
+            </p>
+            <p id="35">
+                <s id="35:1" lang="zh">11.
+                    要求卢旺达各当事方严格尊重联合国及其他在卢旺达服务的组织的人员和房地，并避免对从事人道主义和维持和平工作的人员进行任何恐吓或暴力行为；
+                </s>
+            </p>
+            <p id="36">
+                <s id="36:1" lang="zh">12.
+                    赞扬已经提供人道主义及其它援助的国家、联合国机构及非政府组织的努力，鼓励他们继续提供并增加这种援助，并敦促其他方面提供这种援助；
+                </s>
+            </p>
+            <p id="37">
+                <s id="37:1" lang="zh">B</s>
+            </p>
+            <p id="38">
+                <s id="38:1" lang="zh">确定卢旺达局势对区域内的和平与安全构成威胁，</s>
+            </p>
+            <p id="39">
+                <s id="39:1" lang="zh">根据《联合国宪章》第七章采取行动，</s>
+            </p>
+            <p id="40">
+                <s id="40:1" lang="zh">13.
+                    决定所有国家应防止其国民或从其境内或使用悬挂其旗帜的船只或飞机向卢旺达出售或供应任何种类的军火和有关物资，包括武器和弹药、军用车辆和装备、警察准军事装备；
+                </s>
+            </p>
+            <p id="41">
+                <s id="41:1" lang="zh">14.
+                    还决定依照安全理事会暂行议事规则第28条，设立安全理事会的一个委员会，由安理会全体成员组成，从事下列工作，向安理会报告其工作情况，并提出意见和建议；
+                </s>
+            </p>
+            <p id="42">
+                <s id="42:1" lang="zh">(a) 向所有国家索取资料，说明它们采取何种行动有效执行上面第13段规定的禁运；</s>
+            </p>
+            <p id="43">
+                <s id="43:1" lang="zh">(b)
+                    审议各国提请安理会注意的关于违反禁运情况的资料，并在这方面向安理会建议提高禁运实效的方法；
+                </s>
+            </p>
+            <p id="44">
+                <s id="44:1" lang="zh">(c)
+                    建议适当的措施，以对付违反上面第13段规定的禁运的情事，并定期向秘书长提供资料，以便分发给会员国；
+                </s>
+            </p>
+            <p id="45">
+                <s id="45:1" lang="zh">15.
+                    吁请所有国家，包括非联合国会员国，以及国际组织，虽有本决议通过日期之前生效的任何国际协定或合同或颁发的任何执照或许可证所赋予的任何权利或义务的存在，仍应严格按照本决议的规定行事；
+                </s>
+            </p>
+            <p id="46">
+                <s id="46:1" lang="zh">16. 决定上面第13段和第15段内的规定不适用于联卢援助团和乌卢观察团的有关活动；</s>
+            </p>
+            <p id="47">
+                <s id="47:1" lang="zh">17. 请秘书长向委员会提供一切必要协助，并为此目的在秘书处内作出必要安排；</s>
+            </p>
+            <p id="48">
+                <s id="48:1" lang="zh">C</s>
+            </p>
+            <p id="49">
+                <s id="49:1" lang="zh">18.
+                    请秘书长就冲突期间卢旺达境内严重违反国际人道主义法行为的调查情况，尽速提出一份报告；
+                </s>
+            </p>
+            <p id="50">
+                <s id="50:1" lang="zh">19.
+                    请秘书长及其特别代表，与非统组织和该区域各国协调，继续努力在《阿鲁沙和平协定》的框架内寻求卢旺达境内局势的政治解决；
+                </s>
+            </p>
+            <p id="51">
+                <s id="51:1" lang="zh">20.
+                    决定继续经常审查卢旺达局势，并请秘书长在本决议通过后五周内提出进一步报告，其中包括人道主义情况，并在联卢援助团目前任务期限届满以前，适时再提出一份报告；
+                </s>
+            </p>
+            <p id="52">
+                <s id="52:1" lang="zh">21. 决定继续积极处理此案。</s>
+            </p>
+        </body>
+    </text>
+</TEI.2>
