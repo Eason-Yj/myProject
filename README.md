@@ -1,6 +1,6 @@
 # 学习和备份的仓库
 
-## algorithm(算法包)
+## Algorithm(算法包)
 
 - [简单算法](Algorithm/SimpleAlgorithm/README.md)
 - [知识图谱算法](Algorithm/KnowledgeGraph/README.md)
@@ -11,7 +11,8 @@
 
 ## DataProcessing(数据处理)
 
-- [numpy](Data_Processing/learn_numpy/learn_numpy.py)
+- [numpy](Data_Processing%2Flearn_numpy%2FREADME.md)
+- [pandas](Data_Processing%2Flearn_pandas%2FREADME.md)
 
 ## FM(大模型, Foundation Model)
 
