@@ -1,30 +1,17 @@
-# 学习和备份的仓库
+# 机器学习
 
-## Data_Processing(数据处理)
-- OneHot: 将枚举型特征中的每个枚举值转换为只含有0,1的稀疏特征列
-- Dummy_OneHot: 大致与OneHot相同，
+## [Statistical_Analysis(统计分析)](Machine_Learning%2FStatistical_Analysis%2FREADME.md)
 
-## Feature_Engineering(特征工程)
+## [Feature_Engineering(特征工程)](Feature_Engineering%2FREADME.md)
 
-## Model(模型)
+## [Classification(分类模型)](Classification%2FREADME.md)
 
-### Classification(分类模型)
+## [Regression(回归模型)](Regression%2FREADME.md)
 
-- [简单算法](Classification/README.md)
-- [知识图谱算法](algorithm/KnowledgeGraph/README.md)
+## [Cluster(聚类模型)](Cluster%2FREADME.md)
 
-### Regression(回归模型)
+## [TimeSeries(时序模型)](Time_Series%2FREADME.md)
 
-- [PyTorch](Regression/README.md)
+## [KnowledgeGraph(知识图谱模型)](Knowledge_Graph%2FREADME.md)
 
-### Cluster(聚类模型)
-
-- [numpy](Cluster/learn_numpy.py)
-
-### TimeSeries(时序模型)
-
-- [Huggingface](TimeSeries/README.md)
-
-### KnowledgeGraph(知识图谱模型)
-
-## Evaluation(模型评估)
+## [Evaluation(模型评估)](Evaluation%2FREADME.md)

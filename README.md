@@ -11,8 +11,8 @@
 
 ## DataProcessing(数据处理)
 
-- [numpy](Data_Processing%2Flearn_numpy%2FREADME.md)
-- [pandas](Data_Processing%2Flearn_pandas%2FREADME.md)
+- [Numpy](Data_Processing%2Flearn_numpy%2FREADME.md)
+- [Pandas](Data_Processing%2Flearn_pandas%2FREADME.md)
 
 ## FM(大模型, Foundation Model)
 
@@ -22,18 +22,32 @@
 
 - [金融风控](Industry_Knowledge/FinancialRiskControl/indicators.md)
 
-## ML(机器学习, machine learning)
+## [ML(机器学习, machine learning)](Machine_Learning%2FREADME.md)
 
-- [Statistical_Analysis(统计分析)](Machine_Learning/ML_Statistical_Analysis/README.md)
+- [Statistical_Analysis(统计分析)](Machine_Learning%2FStatistical_Analysis%2FREADME.md)
+
+- [Feature_Engineering(特征工程)](Feature_Engineering%2FREADME.md)
+
+- [Classification(分类模型)](Classification%2FREADME.md)
+
+- [Regression(回归模型)](Regression%2FREADME.md)
+
+- [Cluster(聚类模型)](Cluster%2FREADME.md)
+
+- [TimeSeries(时序模型)](Time_Series%2FREADME.md)
+
+- [KnowledgeGraph(知识图谱模型)](Knowledge_Graph%2FREADME.md)
+
+- [Evaluation(模型评估)](Evaluation%2FREADME.md)
 
 ## tool
 
-- [git](Tool/tool_git/README.md)
-- [linux](Tool/tool_linux/README.md)
-- [markdown](Tool/tool_markdown/README.md)
-- [script](Tool/tool_script/README.md)
+- [Git](Tool/tool_git/README.md)
+- [Linux](Tool/tool_linux/README.md)
+- [Markdown](Tool/tool_markdown/README.md)
+- [Script](Tool/tool_script/README.md)
 
-## Python库
+## [Python](Python%2FREADME.md)
 
 - [Python标准库](Python/python_standard_library/README.md)
 - [Python三方库](Python/python_ThirdParty_library/README.md)
