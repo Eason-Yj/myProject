@@ -2,8 +2,8 @@
 
 ## algorithm(算法包)
 
-- [简单算法](algorithm/SimpleAlgorithm/README.md)
-- [知识图谱算法](algorithm/KnowledgeGraph/README.md)
+- [简单算法](Algorithm/SimpleAlgorithm/README.md)
+- [知识图谱算法](Algorithm/KnowledgeGraph/README.md)
 
 ## ANN(人工神经网络，Artificial Neural Networks)
 

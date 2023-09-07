@@ -14,6 +14,6 @@
 - 1.4 [希尔排序：ShellSort](Sorting/ShellSort.py)  
   ![Alt pic](Sorting/images/shellSort.png)
 
-## 2 [质数](prime_number.py)  
+## 2 [质数](PrimeNumber.py)  
 
 
