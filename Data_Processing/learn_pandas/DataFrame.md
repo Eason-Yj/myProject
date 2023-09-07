@@ -1,6 +1,8 @@
 # DataFrame
 
-## 筛选出含有缺失值的行
+## 1 缺失值操作
+
+### 1.1 筛选出含有缺失值的行
 
 ```python
 # pandas 选出还有缺失值的行
@@ -19,7 +21,7 @@ print(df[se])
 print(df[df.isna().any(axis=1)])
 ```
 
-## 筛选特征列
+## 2 特征筛选
 
 - 根据特征列筛选 DataFrame.select_dtypes(include=None, exclude=None)[source]
     - 数值类型 np.number or 'number'，例：DataFrame.select_dtypes(include=["number"])
