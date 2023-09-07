@@ -26,19 +26,19 @@
 
 - [Statistical_Analysis(统计分析)](Machine_Learning%2FStatistical_Analysis%2FREADME.md)
 
-- [Feature_Engineering(特征工程)](Feature_Engineering%2FREADME.md)
+- [Feature_Engineering(特征工程)](Machine_Learning%2FFeature_Engineering%2FREADME.md)
 
-- [Classification(分类模型)](Classification%2FREADME.md)
+- [Classification(分类模型)](Machine_Learning%2FClassification%2FREADME.md)
 
-- [Regression(回归模型)](Regression%2FREADME.md)
+- [Regression(回归模型)](Machine_Learning%2FRegression%2FREADME.md)
 
-- [Cluster(聚类模型)](Cluster%2FREADME.md)
+- [Cluster(聚类模型)](Machine_Learning%2FCluster%2FREADME.md)
 
-- [TimeSeries(时序模型)](Time_Series%2FREADME.md)
+- [TimeSeries(时序模型)](Machine_Learning%2FTime_Series%2FREADME.md)
 
-- [KnowledgeGraph(知识图谱模型)](Knowledge_Graph%2FREADME.md)
+- [KnowledgeGraph(知识图谱模型)](Machine_Learning%2FKnowledge_Graph%2FREADME.md)
 
-- [Evaluation(模型评估)](Evaluation%2FREADME.md)
+- [Evaluation(模型评估)](Machine_Learning%2FEvaluation%2FREADME.md)
 
 ## tool
 
