@@ -172,7 +172,7 @@ class file_process():
     def copy(self, cp_metadata=True, include_format=None, exclude_format=None, match=None):
         # type:(bool, Optional[list, str], Optional[list, str], Optional[str])->None
         """
-
+        递归复制一个目录
         Parameters
         ----------
         cp_metadata 可选，当为true时，复制文件时会复制文件的元数据，否则只会复制文件的权限
@@ -190,7 +190,7 @@ class file_process():
     def move(self, cp_metadata=True, include_format=None, exclude_format=None, match=None):
         # type:(bool, Optional[list, str], Optional[list, str], Optional[str])->None
         """
-
+        递归移动一个目录
         Parameters
         ----------
         path 文件路径
