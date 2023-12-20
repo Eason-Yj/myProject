@@ -1,4 +1,4 @@
-# Linux find 指令
+# Linux df 指令
 
 ```
 # 格式 
