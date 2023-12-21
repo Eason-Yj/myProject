@@ -41,3 +41,10 @@ find . -type f -name "*.log" | xargs rm -f                    # 删除当前目�
 find . -type f -name "*.jpg" | xargs -I {} cp {} /data/images # 复制当前目录.jpg文件到/data/images
 ```
 
+```shell
+# du [OPTION]... [FILE]...
+du -sh # 统计当前文件夹大小
+du -h # 查看当前目录下每个文件和目录的大小
+find .  -maxdepth 2  -type d  |xargs  -n 1 du -sh # 统计每个的大小
+```
+

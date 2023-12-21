@@ -40,8 +40,10 @@
 
 - [Evaluation(模型评估)](Machine_Learning%2FEvaluation%2FREADME.md)
 
-## tool
+## [Tool](Tool%2FREADME.md)
 
+- [Conda](Tool%2Ftool_conda%2Fbase.md)
+- [Docker](Tool%2Ftool_Docker%2Fbase.md)
 - [Git](Tool/tool_git/README.md)
 - [Linux](Tool/tool_linux/README.md)
 - [Markdown](Tool/tool_markdown/README.md)
@@ -49,5 +51,6 @@
 
 ## [Python](Python%2FREADME.md)
 
-- [Python标准库](Python/python_standard_library/README.md)
-- [Python三方库](Python/python_ThirdParty_library/README.md)
+- [Python标准库](Python%2FThirdParty_Library%2FREADME.md)
+- [Python三方库](Python%2FStandard_Library%2FREADME.md)
+- [python实用小方法](Python%2Fpython%E5%AE%9E%E7%94%A8%E5%B0%8F%E6%96%B9%E6%B3%95.md)

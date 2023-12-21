@@ -74,3 +74,17 @@ print(res.tolist())  # [[11], [21], [31], [41]] shape=(4,1)
 res = np.append(data1, values=data2, axis=1)  # 水平拼接
 print(res.tolist())  # [[11, 42], [21, 52], [31, 62]] shape=(4,2)
 ```
+
+## 其他数组用法
+### 1 np.diff 计算数组中相邻值的差（计算沿给定轴的第n个离散差）
+```python
+import numpy as np
+
+a = np.asarray([1, 2, 3, 5, 5])
+
+print(np.diff(a=a, n=1, axis=0)) # [1 1 2 0]
+print(np.diff(a=a, n=2, axis=0)) # [0  1 -2]
+print(np.diff(a=a, n=3, axis=0)) # [1    -3]
+
+# 参数n表示计算差值次数
+```
