@@ -75,6 +75,21 @@ res = np.append(data1, values=data2, axis=1)  # 水平拼接
 print(res.tolist())  # [[11, 42], [21, 52], [31, 62]] shape=(4,2)
 ```
 
+## 3 数组的交集、并集和差集
+```Python
+import numpy as np
+
+n1 = np.array([1, 2, 3, 4, 5])
+n2 = np.array([3, 4, 5, 6, 7])
+
+# 交集
+np.intersect1d(n1, n2)
+# 差集
+np.setdiff1d(n1, n2)
+# 并集
+np.union1d(n1, n2)
+```
+
 ## 其他数组用法
 ### 1 np.diff 计算数组中相邻值的差（计算沿给定轴的第n个离散差）
 ```python
