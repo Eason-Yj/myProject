@@ -1,10 +1,6 @@
 import time
-import threading
-import numpy as np
-from concurrent.futures import ThreadPoolExecutor
 
 
-# 多线程方法实现：
 def printExp(row, row2, idx):
     idx += 1
     print(idx)
@@ -13,6 +9,8 @@ def printExp(row, row2, idx):
 
 # 简单方法
 def sampleThread():
+    import threading
+
     for i in range(3):
         t = threading.Thread(target=printExp, args=(200, 100, i))
         t.start()
@@ -20,6 +18,9 @@ def sampleThread():
 
 # 通过线程池构建
 def threadPool():
+    from concurrent.futures import ThreadPoolExecutor
+    import numpy as np
+
     # 可控制最大线程数方法
     data = np.random.randint(1, 1000, size=(100, 3))
 
