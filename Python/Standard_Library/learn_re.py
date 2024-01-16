@@ -1,7 +1,7 @@
 import re
 
 pattern = "adfasdfasfdasfd"
-re.compile(pattern,flags=1)
+re.compile(pattern, flags=1)
 '''
 pattern：正则模型
 falgs ：匹配模式,比如忽略大小写，多行模式等

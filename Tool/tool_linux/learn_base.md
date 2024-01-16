@@ -20,7 +20,7 @@ command > stdout.log 2>&1 # 标准输出和标准错误输出都重定向到 std
 
 # 输入重定向
 cat < file # 将file中的内容输入给cat
-
+cat > file << EOF # 自定义写入文件到 file，直到EOF为结束
 ```
 - /dev/null 表示空设备文件
 - 0 表示stdin标准输入
