@@ -48,9 +48,11 @@
 - [Linux](Tool/tool_linux/README.md)
 - [Markdown](Tool/tool_markdown/README.md)
 - [Script](Tool/tool_script/README.md)
+- [电脑相关](Tool%2F%E7%94%B5%E8%84%91%E7%9B%B8%E5%85%B3)
 
 ## [Python](Python%2FREADME.md)
 
-- [Python标准库](Python%2FThirdParty_Library%2FREADME.md)
-- [Python三方库](Python%2FStandard_Library%2FREADME.md)
-- [python实用小方法](Python%2Fpython%E5%AE%9E%E7%94%A8%E5%B0%8F%E6%96%B9%E6%B3%95.md)
+- [Python 内建函数.md](Python%2FPyhton%E5%86%85%E5%BB%BA%E5%87%BD%E6%95%B0.md)
+- [Python 标准库](Python%2FThirdParty_Library%2FREADME.md)
+- [Python 三方库](Python%2FStandard_Library%2FREADME.md)
+- [Python 实用小方法](Python%2F%E5%AE%9E%E7%94%A8%E5%B0%8F%E6%96%B9%E6%B3%95)

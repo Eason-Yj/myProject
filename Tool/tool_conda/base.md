@@ -52,6 +52,7 @@ del miniconda.exe
 - 删除库：conda remove (package)
 - 升级库：conda update (package)
 - 搜索库：conda search (package)
+- 升级conda：conda upgrade conda
 - 比对库：
     - conda compare environment.yml(比对当前环境和yml文件中的库版本)
     - conda compare -n envName environment.yml(比对envName环境和yml文件中的库版本)
