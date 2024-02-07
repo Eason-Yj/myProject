@@ -30,6 +30,8 @@
 
 ## [Python脚本](tool_script%2FREADME.md)
 
+- [数组分箱](tool_script%2FArray.py)
+
 ## 电脑相关
 
 - [CPU](电脑相关/CPU.md)
