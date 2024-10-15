@@ -48,7 +48,7 @@ W file # 写并追加模板块的第一行到file末尾。
 - 打印出指定行
 ```shell
 sed -n '10p' file.txt # 打印出第10行
-sed -n '5,8p' file.txt # 打印出第5，8行
+sed -n '5,8p' file.txt # 打印出5至8行
 sed -n '5,/^test/p' file.txt # 打印出第5行到以test为起始的行之间的所有行
 sed -n '/pattern1/,/pattern2/p' file.txt # 打印出符合pattern1和pattern2匹配规则的行之间的所有行
 ```

@@ -1,5 +1,6 @@
 # git 常见用法
-
+## git 流程示例
+![Alt pic](images/git_process.png)
 ## 指令
 
 | 功能        | 指令                                                | 其他  |

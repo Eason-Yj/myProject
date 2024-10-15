@@ -21,11 +21,11 @@ class Solution1:
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hashtable = dict()
-        for index, i in enumerate(nums):
-            if target - i in hashtable:
-                return [index, hashtable[target - i]]
+        for i, i_val in enumerate(nums):
+            if target - i_val in hashtable:
+                return [i, hashtable[target - i_val]]
             else:
-                hashtable[i] = index
+                hashtable[i_val] = i
         return []
 
 

@@ -3,6 +3,10 @@ from typing import Union
 import torch
 import numpy as np
 
+# 创建tensor
+# x = torch.empty(size=(4, 3), dtype=torch.int)  # 创建一个4*3的未初始化的tensor
+x = torch.zeros(size=(4, 3), dtype=torch.int16)  # 创建一个4*3的0值tensor
+print(x)
 # a = torch.randn(5, 5)
 # b = torch.IntTensor([1])
 # c = torch.Tensor()
