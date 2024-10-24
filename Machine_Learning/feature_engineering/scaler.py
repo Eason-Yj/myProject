@@ -2,8 +2,6 @@ import numpy as np
 import pandas as pd
 from typing import Union
 
-from sklearn.impute import KNNImputer
-
 
 def z_score(x: Union[np.ndarray, pd.Series, pd.DataFrame, list]):
     """
@@ -21,6 +19,3 @@ def z_score(x: Union[np.ndarray, pd.Series, pd.DataFrame, list]):
         x = x.values
 
     return (x - x.mean()) / x.std()
-
-
-import sklearn.preprocessing

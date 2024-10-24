@@ -5,12 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4646cbb-f7f3-4597-9f1b-14127149cd02" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/myProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANN_PyTorch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ANN_PyTorch/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANN_PyTorch/exp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANN_PyTorch/exp2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Thread.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/实用小方法/python实用小方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python/实用小方法/python实用小方法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tool/tool_linux/learn_sed.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tool/tool_linux/learn_sed.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Classification/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Cluster/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Evaluation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/model_evaluation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Feature_Engineering/Dummy_OneHot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/feature_engineering/encoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Feature_Engineering/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/feature_engineering/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/BasicConcept.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/BasicConcept.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/LPA.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/LPA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/PIC.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/PIC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/PageRank.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/PageRank.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/data/1_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/data/1_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/data/1_label.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/data/1_label.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/data/edges_weight_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/data/edges_weight_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/data/karate.gml" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/data/karate.gml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/data/test.gml" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/data/test.gml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/images/有向图.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/images/有向图.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/images/邻接矩阵.png" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/images/邻接矩阵.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/meta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Knowledge_Graph/pageRank.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/knowledge_graph/pageRank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Regression/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/Basis_Of_Statistical_Analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/Basis_Of_Statistical_Analysis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/One_Way_ANOVA.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/One_Way_ANOVA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/Adjusted_RSquared.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/Adjusted_RSquared.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/MAE.png" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/MAE.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/MAE.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/MAE.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/MAPE.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/MAPE.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/MASE.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/MASE.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/MSE.png" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/MSE.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/MSE.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/MSE.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/RMSE.png" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/RMSE.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/RMSE.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/RMSE.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/RSquared.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/RSquared.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/SSE.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/SSE.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/SSR.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/SSR.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/images/SST.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/images/SST.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Statistical_Analysis/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/statistical_analysis/base_tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/Time_Series/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/timing/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/preprocessing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/feature_engineering/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/preprocessing/scaler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/feature_engineering/scaler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/实用小方法/进度条.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python/实用小方法/进度条.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tool/tool_git/创建-配置仓库.md" beforeDir="false" afterPath="$PROJECT_DIR$/Tool/tool_git/创建-配置仓库.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +67,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2CseAt9fFU0N5RWvdsXoI9kxAKj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -40,8 +80,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.base_model.executor": "Run",
+    "Python.classification (1).executor": "Run",
+    "Python.classification.executor": "Run",
+    "Python.sample (1).executor": "Run",
+    "Python.sample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/v_wangyuji1/Desktop/myLearn/myProject"
+    "last_opened_file_path": "/Users/v_wangyuji1/Desktop/myLearn/myProject",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -49,21 +95,65 @@
       <recent name="$PROJECT_DIR$/Python_note" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.__init__">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sample (1)">
+    <configuration name="base_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/model" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/model/base_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classification (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/model/classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/model/classification.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,9 +184,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sample (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/preprocessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/preprocessing/sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/preprocessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/preprocessing/sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.sample (1)" />
+        <item itemvalue="Python.base_model" />
+        <item itemvalue="Python.classification (1)" />
+        <item itemvalue="Python.classification" />
+        <item itemvalue="Python.sample" />
       </list>
     </recent_temporary>
   </component>
@@ -128,5 +266,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/model/base_model.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

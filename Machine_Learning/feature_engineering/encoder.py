@@ -1,7 +1,7 @@
 from typing import Union
 import numpy as np
 
-
+from ..feature_engineering import scaler
 class DummyAndOneHot():
     """
     独热编码和哑变量编码
